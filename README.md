@@ -1,4 +1,4 @@
-# Team Profile Generator 
+# Note Taker
 
 Deployed link Heroku: https://blooming-citadel-35725.herokuapp.com/
 
@@ -57,10 +57,10 @@ To install dependencies, run npm i and install Inquirer and shortid
 ## Mock up images
 The following image demonstrates the application functionality:
 
-<div>
+
     <img src="./public/assets/images/notetaker.png" width="400px"/> 
      <img src="./public/assets/images/notetaker2.png" width="400px"/> 
-</div>
+
 ## Technologies 
 * Node.js
 * Inquirer 
