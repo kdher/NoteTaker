@@ -61,6 +61,7 @@ The following image demonstrates the application functionality:
     <img src="./public/assets/images/notetaker.png" width="500px"/> 
     <img src="./public/assets/images/notetaker2.png" width="500px"/> 
 </div>
+
 ## Technologies 
 * Node.js
 * Inquirer 
